@@ -1,0 +1,687 @@
+body {
+   margin: 0px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.navbar {
+   background-color: #0f82b8;
+   height: 50px;
+   display: flex;
+   justify-content: space-between;   
+   align-items: center;
+}
+
+.home_link {
+   margin: 25px;             
+   font-size: 18px;
+}
+
+.home{
+    color: white;
+    text-decoration: none;
+    
+}
+
+.helpline_link {
+   margin: 25px;             
+   font-size: 18px;
+  
+  
+}
+
+.helpline{
+    color: white;
+    font-family: monospace;
+    text-decoration: none;
+ 
+}
+
+.register_link {
+   margin: 25px;             
+   font-size: 18px;
+   
+}
+
+.register{
+    color: white;
+    font-family: monospace;
+    text-decoration: none;
+
+} 
+
+.button{
+   background-color:#dc3545;
+   border-radius: 4px;
+   padding-top: 4px;
+   padding-bottom: 4px;
+   color: white;
+   text-shadow: 4px 4px 4px grey;
+   border-style: none;
+   padding-bottom: 7px;
+   padding-top: 7px;
+   padding-left: 7px;
+   padding-right: 7px;
+
+}
+
+
+.main_head{
+    margin-top: 40px;
+    color: #0f82b8;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40PX;
+}
+
+
+
+
+.photo{
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+}
+
+.img_discription{
+   display: flex;
+   justify-content: center;   
+   align-items: center;
+}
+
+
+.employee{
+   display: block;
+   text-align: center;
+   padding-left: 300px;
+}
+
+
+.job{
+   display: block;
+   text-align: center;
+   padding-right: 300px;
+}
+
+
+
+
+
+.hiring{
+  background-color:  rgb(233, 238, 134);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.vacancies{
+   display: flex;
+   justify-content:center;
+   margin-left: 100px
+   ;
+}
+
+.vacanci-for-accounting{
+   margin-right: 200px;
+   margin-left: 100px;
+}
+
+.vacanci-for-it{
+   margin-right: 200px;
+    margin-left: 100px;
+}
+
+.vacanci-for-other{
+   margin-right: 200px;
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+.placement{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-top: 20px;
+  margin-bottom: 60px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.placement-1{
+   display: flex;
+   justify-content:center;
+   margin-left: 60px;
+   
+}
+
+.place1{
+   margin-right: 200px;
+   margin-left: 100px;
+}
+
+.place2{
+   margin-right: 200px;
+   margin-left: 100px
+}
+
+.place3{
+   margin-right: 200px;
+   margin-left: 100px
+}
+
+
+
+
+
+
+.job-vacancies{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  text-align: center;
+
+}
+
+
+.facalties{
+   /* display: flex; */
+   /* justify-content:space-between; */
+   margin-left: 60px;
+   text-decoration: none;
+}
+
+.align{
+   display: flex;
+   justify-content: center;
+}
+
+.first{
+   display: block;
+  
+}
+
+.training{
+   margin-right: 200px;
+   text-decoration: none;
+   padding-left:100px;
+   font-family:  UI, System UI, Helvetica Neue, sans-serif
+}
+
+.internship{
+   margin-right: 200px;
+   text-decoration: none;
+   padding-left:100px
+}
+
+.cv{
+   margin-right: 200px;
+   text-decoration: none;
+   padding-left:100px
+}
+
+.second{
+   display: block;
+}
+
+.indian{
+   margin-right: 200px;
+   text-decoration: none;
+   padding-left:100px
+}
+
+.foreighn{
+   margin-right: 200px; 
+   text-decoration: none;
+   padding-left:100px
+}
+
+.faq{
+   margin-right: 200px;
+   text-decoration: none;
+   padding-left:100px
+}
+
+
+.team-1{
+   display: block;
+}
+
+.align{
+   align-items: center;
+}
+
+
+.accounting{
+   margin-right: 200px;
+   text-decoration: none;
+   padding-left:100px ;
+}
+
+.software{
+   margin-right: 200px;
+   text-decoration: none;
+   padding-left:100px ;
+}
+
+.networking{
+   margin-right: 200px;
+   text-decoration: none;
+   padding-left:100px ;
+}
+
+
+.team-2{
+   display: block;
+   
+}
+
+
+.multimedia{
+   margin-right: 200px;
+   text-decoration: none;
+   padding-left:100px ;
+   /* font-family:  UI, System UI, Helvetica Neue, sans-serif */
+}
+
+.managing{
+   margin-right: 200px; 
+   text-decoration: none;
+   padding-left:100px ;
+}
+
+.marketing{
+   margin-right: 200px;
+   text-decoration: none;
+   padding-left:100px ;
+}
+
+
+
+
+
+
+
+
+.indian-jobs{
+   text-align: center;
+   margin-top: 70px;
+}
+
+
+.indian-button{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+   background-color: #1a7b56;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   border-radius: 5px;
+   border-style:none;
+   color:white;
+   font-size:15px;
+   font-weight: 900px;
+}
+
+.sections{
+  
+   justify-content: center;
+   display: flex;
+
+
+}
+
+
+   
+
+.section-1{
+   display: block;
+   font-family: fantasy;
+   margin-right: 100px;
+   margin-left: 100px;
+   
+
+  
+}
+
+.btn-1{
+
+   border-radius: 2px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+   /* font-weight: bolder; */
+   
+}
+
+.btn-2{
+
+   border-radius: 2px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+  /* font-weight: bolder; */
+  
+}
+
+.btn-3{
+ 
+    border-radius: 5px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+  /* font-weight: bolder; */
+}
+
+
+.section-2{
+   display: block;
+   margin-right: 100px;
+   margin-left: 100px;
+ 
+}
+
+
+.btn-4{
+ 
+    border-radius: 5px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+/* font-weight: bolder; */
+}
+
+.btn-5{
+ 
+    border-radius: 5px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+/* font-weight: bolder; */
+}
+
+.btn-6{
+ 
+    border-radius: 5px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+   /* font-weight: bolder; */
+}
+
+
+.section-3{
+   display: block;
+   margin-right: 100px;
+   margin-left: 100px;
+
+}
+
+
+.btn-7{
+ 
+    border-radius: 5px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+   /* font-weight: bolder; */
+}
+
+.btn-8{
+ 
+    border-radius: 5px;
+    margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+ /* font-weight: bolder; */
+}
+
+.btn-9{
+  
+    border-radius: 5px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+  /* font-weight: bolder; */
+}
+
+
+
+.section-4{
+   display: block;
+      margin-right: 100px;
+   margin-left: 100px;
+
+}
+
+
+.btn-10{
+  
+    border-radius: 2px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+   /* font-weight: bolder; */
+    
+}
+
+.btn-11{
+
+    border-radius: 5px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+  /* font-weight: bolder; */
+   
+}
+
+
+
+
+
+
+
+
+.forein-jobs{
+   text-align: center;
+   margin-top: 200px;
+   margin-bottom: 50px;
+}
+
+
+.forein-button{
+   font-family: 'Rubik', 'Montserrat', 'Poppins', Arial, sans-serif;  
+   background-color: #6c757d;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   border-radius: 5px;
+   border-style:none;
+   color:white;
+   font-size:15px;
+   font-weight: 900px;
+}
+
+
+
+.forein-sections{
+  
+   justify-content: center;
+   display: flex;
+
+}
+
+
+   
+
+.forein-section-1{
+   display: block;
+   margin-right: 100px;
+   margin-left: 100px;
+
+}
+
+.fbtn-1{
+
+   border-radius: 2px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+   /* font-weight: bolder; */
+
+
+  
+
+}
+
+.fbtn-2{
+
+   border-radius: 2px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+  /* font-weight: bolder; */
+  
+}
+
+.fbtn-3{
+ 
+    border-radius: 5px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+  /* font-weight: bolder; */
+}
+
+
+.forein-section-2{
+   display: block;
+   margin-right: 200px;
+   margin-left: 100px;
+}
+
+
+.fbtn-4{
+ 
+    border-radius: 5px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+/* font-weight: bolder; */
+}
+
+.fbtn-5{
+ 
+    border-radius: 5px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+/* font-weight: bolder; */
+}
+
+.fbtn-6{
+ 
+    border-radius: 5px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+   /* font-weight: bolder; */
+}
+
+
+.forein-section-3{
+   display: block;
+   margin-right: 100px;
+   margin-left: 100px;
+
+ 
+}
+
+
+.fbtn-7{
+ 
+    border-radius: 5px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+   /* font-weight: bolder; */
+}
+
+.fbtn-8{
+ 
+    border-radius: 5px;
+    margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+ /* font-weight: bolder; */
+}
+
+.fbtn-9{
+  
+    border-radius: 5px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+  /* font-weight: bolder; */
+}
+
+
+
+.forein-section-4{
+   display: block;
+   margin-right: 100px;
+   margin-left: 100px;
+
+
+}
+
+
+.fbtn-10{
+  
+    border-radius: 2px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+   /* font-weight: bolder; */
+    
+}
+
+.fbtn-11{
+
+    border-radius: 5px;
+   margin-top: 30px;
+   margin-left:50px;
+   margin-right:50px;
+   display: block;
+  /* font-weight: bolder; */
+   
+}
+
+
+
+
